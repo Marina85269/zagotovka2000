@@ -2,7 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zagotovka2000&label=Profile%20views&color=0e75b6&style=flat" alt="zagotovka2000" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zagotovka2000" alt="zagotovka2000" /></a> </p>
 
 - 🔭 I’m currently working on [Who wants to be a programmer](https://github.com/zagotovka2000/myProj)
 
